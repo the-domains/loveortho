@@ -1,0 +1,28 @@
+name: LoveOrtho
+favicon: null
+layout_spectrum: 0.8973949998617172
+typography_spectrum: 0.15268595493398607
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+  brandStrength: 0.16169171640649438
+  lightness: 0.46012634271755815
+  saturation: 0.6995266578160226
+  rhythmicContrast: 0.5289863394573331
+purpose: []
